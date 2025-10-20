@@ -69,12 +69,12 @@ function arrowdown(){
 }
 
 function arrowup2(){
-    foulsone += 1
-    arrowbtn2.textContent = foulsone
+    foulstwo += 1
+    arrowbtn2.textContent = foulstwo
 
 }
 function arrowdown2(){
-    foulsone -= 1
-    arrowbtn2.textContent = foulsone
+    foulstwo -= 1
+    arrowbtn2.textContent = foulstwo
 
 }
